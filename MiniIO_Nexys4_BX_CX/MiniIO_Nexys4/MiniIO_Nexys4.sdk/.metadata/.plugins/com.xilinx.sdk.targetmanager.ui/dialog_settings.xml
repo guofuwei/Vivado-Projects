@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Auto Detect" key="cpu_nexys4_wrapper_hw_platform_0-device"/>
+	<item value="false" key="cpu_nexys4_wrapper_hw_platform_0-partial_bit"/>
+	<item value="C:\Users\26254\Desktop\workDocs\vivado-projects\MiniIO_Nexys4\MiniIO_Nexys4.sdk\BXIO_task1_intr\Debug\BXIO_task1_intr.elf" key="cpu_nexys4_wrapper_hw_platform_1-microblaze_0-initElf"/>
+	<item value="Local" key="cpu_nexys4_wrapper_hw_platform_1-target"/>
+	<item value="Auto Detect" key="cpu_nexys4_wrapper_hw_platform_1-device"/>
+	<item value="C:\Users\26254\Desktop\workDocs\vivado-projects\MiniIO_Nexys4\MiniIO_Nexys4.sdk\BXIO_task1_poll\Debug\BXIO_task1_poll.elf" key="cpu_nexys4_wrapper_hw_platform_0-microblaze_0-initElf"/>
+	<item value="false" key="cpu_nexys4_wrapper_hw_platform_1-partial_bit"/>
+	<item value="cpu_nexys4_wrapper.bit" key="cpu_nexys4_wrapper_hw_platform_0-bitFile"/>
+	<item value="cpu_nexys4_wrapper.mmi" key="cpu_nexys4_wrapper_hw_platform_1-bmmFile"/>
+	<item value="cpu_nexys4_wrapper_hw_platform_1" key="programfpga.hwplatform"/>
+	<item value="Local" key="cpu_nexys4_wrapper_hw_platform_0-target"/>
+	<item value="cpu_nexys4_wrapper.bit" key="cpu_nexys4_wrapper_hw_platform_1-bitFile"/>
+	<item value="cpu_nexys4_wrapper.mmi" key="cpu_nexys4_wrapper_hw_platform_0-bmmFile"/>
+</section>

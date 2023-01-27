@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="regsim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="regsim" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="273197092fs"></ZoomEndTime>
+      <Cursor1Time time="28480000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="94"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wave_markers>
+      <marker time="818400000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/regsim/Rsdata" type="array">
+      <obj_property name="ElementShortName">Rsdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Rsdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regsim/Rtdata" type="array">
+      <obj_property name="ElementShortName">Rtdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Rtdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regsim/Rsaddr" type="array">
+      <obj_property name="ElementShortName">Rsaddr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">Rsaddr[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regsim/Rtaddr" type="array">
+      <obj_property name="ElementShortName">Rtaddr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">Rtaddr[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regsim/wraddr" type="array">
+      <obj_property name="ElementShortName">wraddr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">wraddr[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regsim/RegWr" type="logic">
+      <obj_property name="ElementShortName">RegWr</obj_property>
+      <obj_property name="ObjectShortName">RegWr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regsim/wrdata" type="array">
+      <obj_property name="ElementShortName">wrdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wrdata[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regsim/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regsim/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regsim/PERIOD" type="array">
+      <obj_property name="ElementShortName">PERIOD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PERIOD[31:0]</obj_property>
+   </wvobject>
+</wave_config>
